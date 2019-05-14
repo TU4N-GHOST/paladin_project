@@ -2,7 +2,7 @@
 
 # Need Install
 pkg install git
-pkg install cur
+pkg install curl
 
 # cara pakai
 
